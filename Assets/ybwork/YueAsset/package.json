@@ -1,0 +1,20 @@
+{
+    "name": "com.ybwork.yue-asset",
+    "displayName": "YueAsset",
+    "version": "0.2.1",
+    "unity": "2022.3",
+    "description": "",
+    "author": {
+        "name": "月北是个程序员",
+        "url": "https://github.com/ybwork-cn"
+    },
+    "samples": [],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ybwork-cn/YueAsset.git#upm"
+    },
+    "relatedPackages": {},
+    "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.2.1"
+    }
+}

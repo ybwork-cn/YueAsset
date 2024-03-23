@@ -1,0 +1,18 @@
+{
+    "name": "ybwork.YueAsset.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0d7361744be276e4981d3961e22d8486"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
